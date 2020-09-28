@@ -1,0 +1,35 @@
+.contenedor1 {
+    text-align: left;
+    float: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: dodgerblue;
+    margin: auto;
+    padding: 2px;
+    border: black;  
+    border-style: double;
+    border-width: 5px;
+}
+
+.contenedor2{
+    text-align: left;
+    float: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: darkorange;
+    margin: auto;
+    padding: 2px;
+    border: black;  
+    border-style: double;
+    border-width: 5px;
+}
+
+.titulo{
+    text-align: center;
+    float: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+    background-color: black;
+}
+
+.fondo{
+    background-color: gray;
+}
